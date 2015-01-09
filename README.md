@@ -1,3 +1,3 @@
 # personalpage
 
-[Paul Rand eassay](http://aineoh.github.io/personalpage.)
+[personal page](http://aineoh.github.io/personalpage1/personalpage.html)
