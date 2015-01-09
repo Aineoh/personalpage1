@@ -1,0 +1,128 @@
+
+* {
+    margin:0;
+    padding:0;
+    font-size: 100%;
+    line-height: 1.35em;
+}
+        
+body{
+    background-color: #ffffff; 
+    color: #2B2623;
+    }
+        
+h1{
+        font-size: 50px;
+        text-align: center;
+        font-family: 'Pacifico', cursive;
+        color: #12C4B2;
+        }
+        
+        h2 {
+        
+        font-size: 30px;
+        font-family: 'Lato', sans-serif;
+        text-align: center;
+        }
+        
+        h1, h2, h3 {
+        font-weight: normal;
+        margin: 10px 0 10px 0;
+        }
+        
+        .intro {
+        font-style: italic;
+        font-size: 18px;
+        text-align: center;
+        padding: 10px;
+        }
+        
+        p {
+        font-family: 'Lato', sans-serif;
+        }
+        
+        a {
+        color: #ffffff;
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        }
+        
+        a:hover {
+        text-decoration: none;
+        color: #Ffffff;
+        }
+        
+        nav ul {
+        text-align: center;
+        list-style-type: none;
+        padding: 10px;
+        }
+        
+        nav ul li {
+        display: inline ; 
+        margin: 10px;
+        font-size: 10px;
+        font-family: 'Lato', sans-serif;
+        }
+        
+        nav {
+        background: #2B2623;
+        word-spacing: 38px;
+        }
+        
+        img {
+        display: inline;
+        margin: 0 auto;
+        
+        max-width: 100%; /* max-width lets you size the image to fit into the parent container */
+        }
+
+        p{
+        padding: 10px;
+        }
+
+        p3{
+        margin: 20px;
+        }
+
+        li{
+        list-style-type: none;
+        }
+
+        ul{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 10px;
+        border-top: 1px solid #4A4A4A;
+        border-bottom: 1px solid #4A4A4A;
+        margin: 10px;
+        }
+
+        slideShowImages{
+        display: block;
+        align-items: center;
+        }
+
+        footer {
+        background: #2B2623;
+        }
+    
+        .social {
+        background: #2B2623; 
+        color: white;
+        }
+
+        small {
+        font-size: 10px;
+        color: #D8D8D8;
+        line-height: 10px;
+        }
+
+/*layout*/
+
+        article {
+        min-width: 300px;
+        max-width: 760px;
+        margin: auto;
+        }
